@@ -6,4 +6,5 @@ echo "Current user:"
 whoami
 
 echo "System information:"
-uname -aw
+uname -a
+
