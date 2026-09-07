@@ -1,0 +1,12 @@
+[2026-09-06 17:13:52] Starting simulated malware activity.
+[2026-09-06 17:13:52] Detected file: file3.txt
+[2026-09-06 17:13:52] Detected file: file4.txt
+[2026-09-06 17:13:53] Detected file: file9.txt
+[2026-09-06 17:13:53] Detected file: file8.txt
+[2026-09-06 17:13:53] Detected file: file10.txt
+[2026-09-06 17:13:54] Detected file: file6.txt
+[2026-09-06 17:13:54] Detected file: file2.txt
+[2026-09-06 17:13:54] Detected file: file5.txt
+[2026-09-06 17:13:55] Detected file: file1.txt
+[2026-09-06 17:13:55] Detected file: file7.txt
+[2026-09-06 17:13:55] Simulation complete. Examined 10 files.

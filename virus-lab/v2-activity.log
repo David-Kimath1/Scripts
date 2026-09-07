@@ -1,0 +1,38 @@
+[2026-09-06 18:17:26] === V2 SIMULATION STARTED ===
+[2026-09-06 18:17:26] WARNING: This is a harmless simulation.
+[2026-09-06 18:17:26] SIMULATING LOCK: file3.txt -> file3.locked
+[2026-09-06 18:17:26] SIMULATING LOCK: file4.txt -> file4.locked
+[2026-09-06 18:17:27] SIMULATING LOCK: file9.txt -> file9.locked
+[2026-09-06 18:17:27] SIMULATING LOCK: file8.txt -> file8.locked
+[2026-09-06 18:17:28] SIMULATING LOCK: file10.txt -> file10.locked
+[2026-09-06 18:17:28] SIMULATING LOCK: file6.txt -> file6.locked
+[2026-09-06 18:17:29] SIMULATING LOCK: file2.txt -> file2.locked
+[2026-09-06 18:17:29] SIMULATING LOCK: file5.txt -> file5.locked
+[2026-09-06 18:17:30] SIMULATING LOCK: file1.txt -> file1.locked
+[2026-09-06 18:17:30] SIMULATING LOCK: file7.txt -> file7.locked
+[2026-09-06 18:17:31] Simulation complete. Simulated locking of 10 files.
+[2026-09-06 18:18:03] === RESTORE STARTED ===
+[2026-09-06 18:18:03] RESTORING: file6.locked -> file6.txt
+[2026-09-06 18:18:03] RESTORING: file10.locked -> file10.txt
+[2026-09-06 18:18:04] RESTORING: file7.locked -> file7.txt
+[2026-09-06 18:18:04] RESTORING: file4.locked -> file4.txt
+[2026-09-06 18:18:04] RESTORING: file8.locked -> file8.txt
+[2026-09-06 18:18:05] RESTORING: file9.locked -> file9.txt
+[2026-09-06 18:18:05] RESTORING: file3.locked -> file3.txt
+[2026-09-06 18:18:05] RESTORING: file1.locked -> file1.txt
+[2026-09-06 18:18:06] RESTORING: file5.locked -> file5.txt
+[2026-09-06 18:18:06] RESTORING: file2.locked -> file2.txt
+[2026-09-06 18:18:06] Restore complete. Restored 10 files.
+[2026-09-06 18:19:07] === V2 SIMULATION STARTED ===
+[2026-09-06 18:19:07] WARNING: This is a harmless simulation.
+[2026-09-06 18:19:07] SIMULATING LOCK: file3.txt -> file3.locked
+[2026-09-06 18:19:08] SIMULATING LOCK: file4.txt -> file4.locked
+[2026-09-06 18:19:08] SIMULATING LOCK: file9.txt -> file9.locked
+[2026-09-06 18:19:09] SIMULATING LOCK: file8.txt -> file8.locked
+[2026-09-06 18:19:09] SIMULATING LOCK: file10.txt -> file10.locked
+[2026-09-06 18:19:10] SIMULATING LOCK: file6.txt -> file6.locked
+[2026-09-06 18:19:10] SIMULATING LOCK: file2.txt -> file2.locked
+[2026-09-06 18:19:11] SIMULATING LOCK: file5.txt -> file5.locked
+[2026-09-06 18:19:11] SIMULATING LOCK: file1.txt -> file1.locked
+[2026-09-06 18:19:12] SIMULATING LOCK: file7.txt -> file7.locked
+[2026-09-06 18:19:12] Simulation complete. Simulated locking of 10 files.
